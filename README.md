@@ -4,6 +4,8 @@ Unofficial Arch Linux packaging for the ChatGPT desktop application.
 
 This package repackages the official RPM published by OpenAI into a native Arch Linux package.
 
+![](chatgpt.png)
+
 ## Installation
 
 Clone the repository:
