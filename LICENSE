@@ -1,0 +1,9 @@
+Repository packaging license notice
+
+The files in this repository are packaging/metadata files for an unofficial Arch Linux package.
+
+The packaged ChatGPT application is proprietary software distributed by OpenAI and is NOT licensed under this repository's packaging license. The upstream RPM identifies the application license as "Proprietary".
+
+For the terms applicable to the ChatGPT application, refer to the license and notices included with the upstream package and the terms provided by OpenAI.
+
+This repository does not grant any additional rights to the ChatGPT application, its binaries, trademarks, or other OpenAI materials.
