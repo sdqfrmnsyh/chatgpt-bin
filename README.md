@@ -40,6 +40,16 @@ Supported architectures:
 
 The appropriate RPM is selected automatically by `makepkg`.
 
+## Wayland support
+
+Native Wayland support is experimental and will continue to improve. In a Wayland session, the app uses XWayland when available. To explicitly select native Wayland, fully quit the app and launch it from a terminal:
+
+```bash
+chatgpt --ozone-platform=wayland
+```
+
+Some features, such as floating windows, window positioning, focus, and keyboard shortcuts, may not fully work while native Wayland support matures.
+
 ## Disclaimer
 
 This is an unofficial community package. It is not affiliated with or endorsed by OpenAI.
