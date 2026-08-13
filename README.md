@@ -40,10 +40,6 @@ Supported architectures:
 
 The appropriate RPM is selected automatically by `makepkg`.
 
-## System Tray
-
-The Linux application currently does **not** provide a system tray icon. This is an upstream application behavior and is not caused by this Arch package.
-
 ## Disclaimer
 
 This is an unofficial community package. It is not affiliated with or endorsed by OpenAI.
